@@ -1,8 +1,10 @@
-# Python for Everybody Specialization
+# University of Michigan 🎓🏫💙
+
+## Python for Everybody Specialization
 
 This repository contains the code and learnings from the **Python for Everybody Specialization**, a comprehensive series of courses designed to teach programming using the Python programming language. Each course in the specialization focuses on different aspects of programming and data analysis, allowing learners to develop a strong foundation in Python.
 
-## Courses in the Specialization
+### Courses in the Specialization
 
 1. **Programming for Everybody (Getting Started with Python)**: This course introduces the basics of programming computers using Python. It covers the construction of programs using simple instructions in Python, without requiring advanced mathematical knowledge. Upon completion, learners will be prepared to take more advanced programming courses. This course covers Chapters 1-5 of the textbook "Python for Everybody". (Python 3)
 
