@@ -1,6 +1,6 @@
 # University of Michigan 🎓🏫💙
 
-## Python for Everybody Specialization
+## Python for Everybody Specialization 💻🐍
 
 This repository contains the code and learnings from the **Python for Everybody Specialization**, a comprehensive series of courses designed to teach programming using the Python programming language. Each course in the specialization focuses on different aspects of programming and data analysis, allowing learners to develop a strong foundation in Python.
 
