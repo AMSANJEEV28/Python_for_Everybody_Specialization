@@ -1,7 +1,7 @@
 # University of Michigan 🎓🏫💙
 
 
-<img src="[https://github.com/link-to-your-image.jpg](https://github.com/AMSANJEEV28/Python_for_Everybody_Specialization/assets/81654437/c2be744e-ac4b-4e4d-84ce-fb6b45d02e47)" alt="python_for_everybody" width="300" height="200">
+![python_for_everybody](https://github.com/AMSANJEEV28/Python_for_Everybody_Specialization/assets/81654437/8c76d2df-c1c8-4a3a-addd-35303e6b8455 | width=300 height=200)
 
 
 ## Python for Everybody Specialization 💻🐍
