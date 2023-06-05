@@ -1,5 +1,9 @@
 # University of Michigan 🎓🏫💙
 
+
+![python_for_everybody](https://github.com/AMSANJEEV28/Python_for_Everybody_Specialization/assets/81654437/8c76d2df-c1c8-4a3a-addd-35303e6b8455)
+
+
 ## Python for Everybody Specialization 💻🐍
 
 This repository contains the code and learnings from the **Python for Everybody Specialization**, a comprehensive series of courses designed to teach programming using the Python programming language. Each course in the specialization focuses on different aspects of programming and data analysis, allowing learners to develop a strong foundation in Python.
